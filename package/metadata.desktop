@@ -1,0 +1,26 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Yandex.Translate
+Name[ru]=Яндекс.Переводчик
+
+Comment=Translate text with Yandex.Translate
+Comment[ru]=Перевод текста в Яндекс.Переводчике
+
+Type=Service
+Icon=exchange-positions
+ServiceTypes=Plasma/Applet
+
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Akimkin
+X-KDE-PluginInfo-Email=akimkin_denis@mail.ru
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.kde.plasma.yatr
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Language
+
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-FormFactors=desktop,horizontal,vertical
